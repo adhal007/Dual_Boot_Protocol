@@ -1,8 +1,9 @@
 # Dual_Boot_Protocol
 1. Check UEFI or BIOS > If UEFI , disable secure boot from firmware settings
 2. Prepare Windows Machine for dual boot: 
-   * cmd -> diskmgmt.misc
-   * Shrink C drive and leave unallocated
+   - cmd -> diskmgmt.misc
+   - Shrink C drive and leave unallocated
+
 3.Get ubuntu 16.04.iso image from ubuntu website
 4.Burn the image using universal USB(BIOS compatible) or rufus(UEFI Compatible)
 5.F12/F10 or F2 depending of PC manufacturer
