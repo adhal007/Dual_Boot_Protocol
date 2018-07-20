@@ -3,7 +3,7 @@
 
 2. Prepare Windows Machine for dual boot: 
    - cmd -> diskmgmt.misc
-   - Shrink C drive and leave unallocated
+   - Shrink c: drive and leave unallocated
 
 3.Get ubuntu 16.04.iso image from ubuntu website:
 
