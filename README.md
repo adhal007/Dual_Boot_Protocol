@@ -5,13 +5,13 @@
    - cmd -> diskmgmt.misc
    - Shrink c: drive and leave unallocated
 
-3.Get ubuntu 16.04.iso image from ubuntu website:
+3. Get ubuntu 16.04.iso image from ubuntu website:
 
-4.Burn the image using universal USB(BIOS compatible) or rufus(UEFI Compatible):
+4. Burn the image using universal USB(BIOS compatible) or rufus(UEFI Compatible):
 
-5.F12/F10 or F2 depending of PC manufacturer:
+5. F12/F10 or F2 depending of PC manufacturer:
 
-6.Partition Schemes: 
+6. Partition Schemes: 
    - Default : Install Ubuntu alongside Windows Boot Manager
    - Something Else: Customized 
    - Custom Partition Layout: 
